@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/osama-portfolio/static/css/main.d6ec8ceb.css",
-    "main.js": "/osama-portfolio/static/js/main.767e0f21.js",
+    "main.js": "/osama-portfolio/static/js/main.e9505259.js",
     "static/media/me-abouttt.jpg": "/osama-portfolio/static/media/me-abouttt.ba12083bf95780acefd6.jpg",
     "static/media/mee.png": "/osama-portfolio/static/media/mee.9478e5820254a305448f.png",
     "static/media/portfolio1.jpg": "/osama-portfolio/static/media/portfolio1.6d3b89ad358b3ff8647e.jpg",
@@ -13,10 +13,10 @@
     "static/media/Osama-CV.pdf": "/osama-portfolio/static/media/Osama-CV.26cd674cc47e4fa267e4.pdf",
     "index.html": "/osama-portfolio/index.html",
     "main.d6ec8ceb.css.map": "/osama-portfolio/static/css/main.d6ec8ceb.css.map",
-    "main.767e0f21.js.map": "/osama-portfolio/static/js/main.767e0f21.js.map"
+    "main.e9505259.js.map": "/osama-portfolio/static/js/main.e9505259.js.map"
   },
   "entrypoints": [
     "static/css/main.d6ec8ceb.css",
-    "static/js/main.767e0f21.js"
+    "static/js/main.e9505259.js"
   ]
 }
