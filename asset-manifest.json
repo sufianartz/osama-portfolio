@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/osama-portfolio/static/css/main.d6ec8ceb.css",
+    "main.js": "/osama-portfolio/static/js/main.767e0f21.js",
+    "static/media/me-abouttt.jpg": "/osama-portfolio/static/media/me-abouttt.ba12083bf95780acefd6.jpg",
+    "static/media/mee.png": "/osama-portfolio/static/media/mee.9478e5820254a305448f.png",
+    "static/media/portfolio1.jpg": "/osama-portfolio/static/media/portfolio1.6d3b89ad358b3ff8647e.jpg",
+    "static/media/portfolio3.jpg": "/osama-portfolio/static/media/portfolio3.4eacc5028bc25ebeed91.jpg",
+    "static/media/portfolio5.jpg": "/osama-portfolio/static/media/portfolio5.90ffc639333353f2760b.jpg",
+    "static/media/portfolio6.jpg": "/osama-portfolio/static/media/portfolio6.59062ab685bed1e13c61.jpg",
+    "static/media/portfolio4.jpg": "/osama-portfolio/static/media/portfolio4.82aaa6f57bb3c403e53c.jpg",
+    "static/media/portfolio2.jpg": "/osama-portfolio/static/media/portfolio2.97013d223c6bb712ae0c.jpg",
+    "static/media/Osama-CV.pdf": "/osama-portfolio/static/media/Osama-CV.26cd674cc47e4fa267e4.pdf",
+    "index.html": "/osama-portfolio/index.html",
+    "main.d6ec8ceb.css.map": "/osama-portfolio/static/css/main.d6ec8ceb.css.map",
+    "main.767e0f21.js.map": "/osama-portfolio/static/js/main.767e0f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ec8ceb.css",
+    "static/js/main.767e0f21.js"
+  ]
+}
